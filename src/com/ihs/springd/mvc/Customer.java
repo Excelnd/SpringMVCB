@@ -39,7 +39,7 @@ public class Customer {
 	public void setFirstName(String firstName) {
 		this.firstName = firstName;
 	}
-	public String getLastName() {
+	public String getLastName() { 
 		return lastName; 
 	}
 	public void setLastName(String lastName) {
