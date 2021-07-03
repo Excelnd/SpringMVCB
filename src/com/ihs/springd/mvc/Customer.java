@@ -58,5 +58,4 @@ public class Customer {
 		this.postalCode = postalCode;
 	}
 	
-	
 }
